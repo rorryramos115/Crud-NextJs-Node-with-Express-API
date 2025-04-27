@@ -6,4 +6,5 @@ export const {
     PORT,
     MONGODB_URI,
     NODE_ENV,
+    FRONTEND_URL,
 } = process.env;

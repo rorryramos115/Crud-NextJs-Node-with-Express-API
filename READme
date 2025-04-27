@@ -5,6 +5,8 @@ npm install --save-dev nodemon
 npx eslint --init
 npm install dotenv
 npm install mongodb mongoose
+npm install cors
+
 
 put changes in package.json:
  type: module,
